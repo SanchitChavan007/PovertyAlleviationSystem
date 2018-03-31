@@ -1,0 +1,3 @@
+UserInterface.DataCollectorOrganization.DataCollectorWorkAreaJPanel
+UserInterface.DataCollectorOrganization.DataCollectorWorkAreaJPanel$1
+UserInterface.DataCollectorOrganization.DataCollectorWorkAreaJPanel$2

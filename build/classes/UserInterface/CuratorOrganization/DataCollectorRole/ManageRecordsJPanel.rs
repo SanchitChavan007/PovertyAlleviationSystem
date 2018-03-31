@@ -1,0 +1,3 @@
+UserInterface.DataCollectorOrganization.ManageRecordsJPanel$2
+UserInterface.DataCollectorOrganization.ManageRecordsJPanel$1
+UserInterface.DataCollectorOrganization.ManageRecordsJPanel

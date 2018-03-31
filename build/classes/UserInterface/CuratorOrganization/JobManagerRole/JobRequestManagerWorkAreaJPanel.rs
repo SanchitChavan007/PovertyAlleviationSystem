@@ -1,0 +1,2 @@
+UserInterface.JobRequestManager.JobRequestManagerWorkAreaJPanel
+UserInterface.JobRequestManager.JobRequestManagerWorkAreaJPanel$1
